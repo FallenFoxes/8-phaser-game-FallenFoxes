@@ -1,4 +1,4 @@
-# Assignment: ?
+# Assignment: Phaser Project 2
 
 ## Checklist:
 - [ ] fill out the self evaluation and Reflection
